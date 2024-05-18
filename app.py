@@ -6,7 +6,8 @@ from PIL import Image
 from about import about
 
 # Load the model
-model = load_model('fracture_model_NN.h5', compile=False)
+model = load_model('C:\\Users\\NANDAN KUMAR\\Desktop\\fracture_model_NN.h5', compile=False)
+
 
 
 # Function to preprocess the image
